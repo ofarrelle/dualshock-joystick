@@ -51,6 +51,8 @@ In the configuration file, all input values are defined as variables: axes `A0, 
 | Left joystick vertical    | A1                     |
 | Right joystick horizontal | A2                     |
 | Right joystick vertical   | A5                     |
+| R1                        | A3                     |
+| L1                        | A4                     |
 | Square                    | B0                     |
 | X                         | B1                     |
 | Circle                    | B2                     |
@@ -61,7 +63,7 @@ In the configuration file, all input values are defined as variables: axes `A0, 
 | R2                        | B7                     |
 | Share                     | B8                     |
 
-For example, when the left joystick is moved horizontally, the A0 variable changes value. Similarly when the Triangle button is pushed, the B3 variable registers an input. Variables A3 and A4 I have yet to discover, while variables P0 (and potentially P1, P2, P3) I have not experiemented with. Recall, these should be associated with the D-Pad.
+For example, when the left joystick is moved horizontally, the A0 variable changes value. Similarly when the Triangle button is pushed, the B3 variable registers an input. Variables P0 (and potentially P1, P2, P3) I have not experiemented with. Recall, these should be associated with the D-Pad.
 
 In case you ever want to add more functionality (ie. landing gear up/down), start with this button mapping. The functions used to define the effect's corresponding with these variables are laid out in [dualshock_4.ini](https://github.com/ofarrelle/dualshock-joystick/blob/master/dualshock_4.ini)
 
