@@ -1,7 +1,7 @@
 # dualshock-joystick
 Pilot Google Earth Flight Simulator with a Playstation Dualshock 4 controller on Windows
 
-Google Earth's built-in flight simulator is pretty neat by very hard to control without a joystick. Earth comes with preset configuration files for many legitimate airplane simulator joysticks, and interestingly for the XBox 360 controller, but not for any Playstation remotes. Here's how to use the Dualshock 4 to control your airplane (as a bonus, completely wirelessly).
+Google Earth's built-in flight simulator is pretty neat but very hard to control without a joystick. Earth comes with preset configuration files for many legitimate airplane simulator joysticks, and interestingly for the XBox 360 controller, but not for any Playstation remotes. Here's how to use the Dualshock 4 to control your airplane (as a bonus, completely wirelessly).
 
 ## In-Simulator Controls
 
